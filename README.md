@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm NASSER ALDHUBAYB</h1>
-<h3 align="center">A passionate developer from Saudi Arabia</h3>
+<h1 align="center">
+Hi, I'NASSER ALDHUBAYB!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-aldhubayb&label=Profile%20views&color=0e75b6&style=flat" alt="n-aldhubayb" /> </p>
+<br/>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Freelancer&center=true&width=380&height=45"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-aldhubayb" alt="n-aldhubayb" /></a> </p>
+```
+N-aldhubayb@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+```
+<hr>
+<h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-aldhubayb&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-aldhubayb&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-aldhubayb&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-aldhubayb&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-aldhubayb&theme=monokai&utcOffset=8)
+
 
 <p align="left"> <a href="https://twitter.com/@naldhubayb" target="blank"><img src="https://img.shields.io/twitter/follow/@naldhubayb?logo=twitter&style=for-the-badge" alt="@naldhubayb" /></a> </p>
 
